@@ -28,4 +28,4 @@ ________________________________________________________________________________
 
 
 # Vamos conversar?
-![Me chama aqui!](linkedin.com/in/rubens-souza-101987b2/?skipRedirect=true)
+[Me chama aqui!](linkedin.com/in/rubens-souza-101987b2/?skipRedirect=true)
