@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 🧩 Estruturação de processos de testes (exploratórios, regressivos, E2E, aceite, usabilidade) com foco em cobertura e rastreabilidade;
 
-📚 Especialista em documentação e gestão de testes test plan (Azure Devops);
+📚 Especialista em documentação e gestão de testes;
 
 🐞 Implementador de Bug Review com foco em análise de falhas e logs;
 
